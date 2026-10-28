@@ -1,0 +1,125 @@
+# Инвентарь
+
+Читать перед подбором приманки, чтобы советовать из того, что уже есть. Названия моделей здесь — вещи пользователя, их можно называть; но подбирать всё равно по свойствам.
+
+## Как читать таблицу
+
+- Источник: таблица пользователя от 28.10.2026.
+- **Заглубление** — в метрах, как указано в источнике; прочерк — не указано.
+- **Масса** — граммы, **длина** — миллиметры.
+- **Плавучесть:** `f` — плавающий, `s` — тонущий, `sp` — суспендер, `ss` — медленно тонущий, `f sr` — плавающий shallow runner, `fast sinking` — быстро тонущий.
+- **Класс** в источнике не указан. Определять по названию модели (`pencil` — уокер, `crank` — крэнк, `minnow` — минноу) и по свойствам; при сомнении спросить пользователя, а не угадывать.
+
+## Воблеры, стики, топвотеры
+
+| # | Производитель | Модель | Длина, мм | Масса, г | Заглубление, м | Плавучесть | Заметки |
+|---|---|---|---|---|---|---|---|
+| 1 | Akara | Tony | 35 | 4 | 0,1–0,4 | f | |
+| 2 | Akara | Tester | 50 | 4 | 0,5–1,0 | s | |
+| 3 | Akara | Pin | 50 | 4,5 | — | s | |
+| 4 | Bassday | Mononofu | 35 | 3 | — | s | |
+| 5 | Bearking | ito shiner | 115 | 15 | 0,5–1,2 | sp | |
+| 6 | Duo | Realis Pencil | 85 | 6 | 0 | f | уокер |
+| 7 | German | Nori | 40 | 5,4 | 0,4–0,9 | f | |
+| 8 | Grows Culture | Rigge | 56 | 3,1 | 0,5–1,0 | sp | |
+| 9 | Grows Culture | Rigge | 43 | 4 | 0,3–0,6 | sp | |
+| 10 | Grows Culture | D-Contact | 50 | 4,5 | — | sp | |
+| 11 | Grows Culture | Komomo II | 65 | 6 | 0 | f | крэнк |
+| 12 | Grows Culture | Rerange 110 MR | 110 | 16,9 | 1,5–2,0 | sp | |
+| 13 | Grows Culture | Orbit | 130 | 25 | 1,5–2,0 | sp | |
+| 14 | Izumi | eimann minnow | 120 | 22 | 0,6–1,5 | ss | |
+| 15 | Jackall | Chubby | 38 | 4 | 0,6–1,0 | f | крэнк |
+| 16 | Jackall | Micro Tappy | 54 | 4,8 | 0–0,1 | f | |
+| 17 | Jackall | Rerange 85SP | 85 | 7,9 | — | sp | |
+| 18 | Kingdom | Micro Expert | 37 | 2,3 | 0,1–0,5 | f | |
+| 19 | Kingdom | Slow sinking pencil | 40 | 4 | — | s | вероятно PS40/4g — уточнить |
+| 20 | Kingdom | Topwater pencil | 60 | 5,6 | 0 | f | вероятно F60/5.6G — уточнить; Волга: щука, жерех |
+| 21 | Kingdom | z-shot | 45 | 4,5 | 0 | f | |
+| 22 | Kosadaka | MicroTappy | 45 | 2,6 | 0–0,2 | f | |
+| 23 | Kosadaka | Hickory | 34 | 3,6 | 0–0,2 | f | |
+| 24 | Kosadaka | Micro Tappy | 54 | 4,8 | 0–0,2 | f | |
+| 25 | Kosadaka | Raphael | 45 | 5,1 | — | s | |
+| 26 | Kosadaka | Tide Minnow | 75 | 7,7 | 0,2–0,5 | f | |
+| 27 | Kosadaka | Cord SH | 75 | 8 | 0,1–0,5 | f | |
+| 28 | Kosadaka | Boxer XS | 40 | 8,5 | 0,2–0,6 | f | |
+| 29 | Kosadaka | volt xs 85f | 85 | 9,1 | 0,5–1,2 | f | |
+| 30 | Kosadaka | Kuga Nano XL | 23 | 1,7 | 0,5–1,0 | f | |
+| 31 | Kosadaka | quant xs 60f | 60 | 4,8 | 0,2–0,8 | f | Волга у Старицы: щука |
+| 32 | Kosadaka | raven xs | 45 | 7,4 | 0,1–0,5 | f | |
+| 33 | Kosadaka | flash xs | 130 | 20 | 0,5–1,2 | sp | |
+| 34 | Lucky Craft | Pointer SP | 78 | 9,2 | 1,2–1,5 | sp | |
+| 35 | Lucky John | Basara | 40 | 2,5 | 0,2–0,6 | sp | |
+| 36 | Lucky John | Anira 39SP | 39 | 3 | 0,3–0,8 | sp | |
+| 37 | Lucky John | Basara | 56 | 3 | 0,4–0,6 | f | |
+| 38 | Lucky John | Haira Tiny ATF | 33 | 4 | 0,3–1,0 | f | |
+| 39 | Lucky John | Anira 49SP | 49 | 4 | 0,3–0,8 | sp | |
+| 40 | Lucky John | Basara | 70 | 5 | 0,4–0,8 | f | |
+| 41 | Lucky John | Shad Craft | 50 | 5,8 | 0–0,7 | f | |
+| 42 | Lucky John | pilot x | 45 | 7 | 0–1,5 | f | |
+| 43 | Lucky John | Basara | 90 | 10 | 0,6–1,0 | f | Москва-река, Марьино: судак — лучший результат |
+| 44 | Lucky John | Pike Hunter | 100 | 10 | 0–1,2 | f | |
+| 45 | Lucky John | Makora | 110 | 12 | 0,3–1,2 | f | |
+| 46 | Mottomo | Ostra | 115 | 13,3 | 0–1,0 | sp | |
+| 47 | OSP | Asura II | 92,5 | 8,4 | 0,8–1,2 | sp | |
+| 48 | Pontoon 21 | shallow first | 70 | 4 | — | f | |
+| 49 | Pontoon 21 | Marionette Minnow | 90 | 7,1 | 0,3–0,5 | f sr | |
+| 50 | Pontoon 21 | cablista | 125 | 18 | 1,5–1,8 | f | |
+| 51 | Rolans | Girino | 20 | 1,8 | 0,1–0,5 | f | |
+| 52 | Rolans | Moco | 28 | 2 | 0–0,6 | f | |
+| 53 | Rolans | Panino | 28 | 2,5 | 0,1–0,5 | f | |
+| 54 | Rolans | Criquets | 47 | 3,7 | 0,1–0,5 | f | |
+| 55 | Sakura | Notobug | 40 | 3,2 | — | f | |
+| 56 | Smith | Camion Magnum SSR | 36 | 3,3 | 0,1–0,5 | f | крэнк |
+| 57 | Strike Pro | Baby Pro | 25 | 2 | 0,1–0,3 | f | крэнк |
+| 58 | Strike Pro | js-358 | 50 | 4 | — | s | |
+| 59 | Strike Pro | alpha diver | 90 | 7 | 2,0–3,0 | f | |
+| 60 | TsuYoki | Rival | 35 | 2 | 0,4–0,8 | sp | |
+| 61 | Tsuyoki | Xaker SR | 28 | 2,8 | 0,4–0,8 | ss | в переписке назывался SSR — уточнить |
+| 62 | Tsuyoki | Loom | 40 | 3 | 0–0,8 | s | |
+| 63 | TsuYoki | Chef SR Silent | 40 | 5 | 0,4–0,8 | f | крэнк |
+| 64 | Tsuyoki | Rafa | 50 | 5,6 | 0,6–1,2 | s | Волга: голавль |
+| 65 | Tsuyoki | Stress | 60 | 7 | 0,6–1,2 | s | Волга: щука, жерех |
+| 66 | TsuYoki | Draga | 100 | 17 | 0,2–1,4 | sp | |
+| 67 | ZipBaits | Baby Hickory SR | 25 | 2,6 | 0,2–0,6 | ss | |
+| 68 | ZipBaits | Tiny Khamsin | 40 | 2,8 | 0,5 | sp | |
+| 69 | ZipBaits | Orbit 80 sp-sr | 80 | 8,5 | 0,6–1,0 | sp | |
+| 70 | ZipBaits | Orbit 110 sp | 110 | 16,5 | 0,8–1,0 | sp | |
+| 71 | ZipBaits | Rigge 46s | 46 | 4 | — | s | |
+| 72 | Daiwa | Dr.Minnow 2 | 42 | — | — | fast sinking | |
+| 73 | Strike Pro | Darter-R Queen | 130 | 17,5 | 0,2 | f | |
+| 74 | TsuYoki | Wagner | 65 | 6,7 | — | sp | |
+| 75 | Master | Trigger MR | 30 | 2,7 | — | f | |
+| 76 | TsuYoki | Alisa | 80 | 13,5 | — | s | |
+| 77 | Bassday | Kangoku Crank | 27 | 2,4 | — | f | крэнк |
+| 78 | Kosadaka | ZLN XS | 90 | 11 | — | f | |
+| 79 | Duo | ToTo | 42 | 1,8 | — | f | |
+| 80 | Kosadaka | Intra XS | 95 | 12,3 | — | f | |
+| 81 | Strike Pro | Baby Pro 25 | 25 | 2 | — | f | крэнк |
+| 82 | Duel | L-Bass Pencil | 75 | 7 | — | f | уокер |
+| 83 | Cultiva | RM-65 SP | 65 | 6 | — | sp | |
+
+## Спиннинги
+
+| Модель | Длина | Тест | Назначение | Заметки |
+|---|---|---|---|---|
+| ? | ? | ? | берег / лодка | заполнить |
+
+## Катушки и шнуры
+
+| Модель | Размер | Шнур | Заметки |
+|---|---|---|---|
+| ? | ? | ? | заполнить |
+
+## Джиг, резина, прочее
+
+| Класс | Что есть | Вес / размер | Заметки |
+|---|---|---|---|
+| Джиг-головки | ? | ? | заполнить |
+| Резина | ? | ? | заполнить |
+| Виб | ? | ? | заполнить |
+| Вертушки / колебалки | ? | ? | заполнить |
+| Мормышки | ? | ? | заполнить |
+
+## Правило
+
+Если пользователь спрашивает «что взять», а в таблице есть подходящий класс — предлагать из инвентаря, называя свойства. Если подходящего нет — сказать об этом и описать, что докупить, без навязывания бренда.
